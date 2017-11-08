@@ -1,2 +1,2 @@
 # ML-algorithms-implementations
-Implementation of Regression,Classification,Clustering and Feature Selection algorithms from scratch
+Implementation of Regression, Classification, Clustering, Dimensionality Reduction and Feature Selection algorithms from scratch
